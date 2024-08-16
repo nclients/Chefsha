@@ -228,14 +228,14 @@ sections:
   - type: "textBlock" 
     noMarginTop: false
     id: ""
-    bgImg: "gallery/Chef Sha 火焱阁07.jpeg"
+    bgImg: "/gallery/Chef Sha 火焱阁07.jpeg"
     bgColor: "#000"
     bgOpacity: "0.6" # 0~1
     title: 
       - "新功能! 在线订餐"
     titleColor: "#ffffff"
     description: 
-      - "现在支援线上订单自取。只要告诉我们您想要的菜餚，我们会​​尽快準备好。所有订单都由我们手动确认。您可以即时查看您的食物何时準备好。订单状态会即时更新，您可以在萤幕上查看您的食物何时可以取走。"
+      - "现在支援线上订单自取。只要告诉我们您想要的菜餚，我们会​​尽快准备好。所有订单都由我们手动确认。您可以即时查看您的食物何时准备好。订单状态会即时更新，您可以在萤幕上查看您的食物何时可以取走。"
     descriptionColor: "#ffffff"
   
 # map  
