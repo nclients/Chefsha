@@ -314,10 +314,10 @@ footer:
 
   # at a minimum, please make sure to include the meta description.
   seo:
-    metaDescription: "Since Chef Sha is opened in San Mateo in September 2019, it began serving Asian & Chinese food, specialized in Szechuan and mongolian hot pot, dry pot and BBQ." 
+    metaDescription: "Experience the best Chinese hot pot in San Mateo! Savor fresh ingredients and rich flavors in a cozy atmosphere perfect for family and friends.Online order now！" 
     keywords: ""
     img: ""
-    thisPageUrl: ""
+    thisPageUrl: "https://www.chefsha-order.com/"
     locale: "en_US" # zh_TW | zh_CN
 ---
 <!-- hello world -->

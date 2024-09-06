@@ -317,7 +317,7 @@ footer:
     metaDescription: "Experience the best Chinese hot pot in San Mateo! Savor fresh ingredients and rich flavors in a cozy atmosphere perfect for family and friends.Online order now！" 
     keywords: ""
     img: ""
-    thisPageUrl: ""
+    thisPageUrl: "https://www.chefsha-order.com/"
     locale: "en_US" # zh_TW | zh_CN
 ---
 <!-- hello world -->
