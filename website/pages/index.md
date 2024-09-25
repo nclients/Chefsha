@@ -1,10 +1,10 @@
 ---
 layout: "ssg-theme-astro/layouts/main.astro"  # This line of code should remain unchanged.
-tag: "GTM-"
-title: "Chef Sha 火焱阁"
+tag: ""
+title: "Chef Sha 火焱阁 - Best Food Today"
 favicon: "favicon.ico"
-logo: "logo.webp"
-primaryColor: "#E7383D" # logo color
+logo: "logo.png"
+primaryColor: "#AF0702" # logo color
 secondaryColor: "#f3eee5"
 primaryColorScheme: "dark" # dark | light
 secondaryColorScheme: "light"
@@ -27,11 +27,12 @@ tel: "510-566-7175"
 
 # header
 header:
-  logoSize: 45
+  logoSize: 60
+  logoSizeOnMobile: 45
   textAfterLogo: 
     text: "Chef Sha 火焱阁"
-    size: 20
-    color: ""
+    size: 16
+    color: "#AF0702"
   bgColor: "#ffffff"
   bgOpacity: "1" # 0~1
   menuTextColor: "#000000"
@@ -50,14 +51,14 @@ header:
 
   otherBtn1InsteadText: "Online Order"
   otherBtn1Href: "https://www.bestfoodtodayus.com/ordering/restaurant/menu?restaurant_uid=baf65e17-dae4-457b-9cc0-a3a33b502826"
-  otherBtn2InsteadText: "Table Reservation "
-  otherBtn2Href: "https://www.bestfoodtodayus.com/ordering/restaurant/menu/reservation?restaurant_uid=baf65e17-dae4-457b-9cc0-a3a33b502826&reservation=true&client_is_mobile=true"
+  otherBtn2InsteadText: ""
+  otherBtn2Href: ""
 
 sections:
 # hero
   - type: "hero" 
     id: ""
-    height: "70" # Conditionally use only when sectionType is imgBg
+    height: "100" # Conditionally use only when sectionType is imgBg
     sectionType: "imgBg" # video | imgWithText | imgBg
     bgVideoType: "gjw" # youtube | vimeo | gjw
     bgVideoId: "1gov6sj92av4Zb9OI9K1kKJat1rv1c"
@@ -68,7 +69,7 @@ sections:
       - "Chef Sha 火焱阁"
     titleColor: "#ffffff"
     description: 
-      - "ASIAN & CHINESE FOOD, HOT POT, DRY POT, SZECHUAN & SPECIAL DISHES IN SAN MATEO"
+      - "Asian & Chinese Food, Hot Pot, Dry Pot, Szechuan & Special Dishes In San Mateo"
     descriptionColor: "#ffffff"
     # title2: 
     #   - ""
@@ -82,10 +83,10 @@ sections:
     addTableReservationBtn: false
     tableReservationBtnInsteadText: ""
 
-    btn1Text: ""
-    btn1Href: "" 
-    btn2Text: "" 
-    btn2Href: "" 
+    btn1Text: "See Menu & Order"
+    btn1Href: "https://www.bestfoodtodayus.com/ordering/restaurant/menu?restaurant_uid=baf65e17-dae4-457b-9cc0-a3a33b502826" 
+    btn2Text: "Table Reservation" 
+    btn2Href: "https://www.bestfoodtodayus.com/ordering/restaurant/menu/reservation?restaurant_uid=baf65e17-dae4-457b-9cc0-a3a33b502826&reservation=true&client_is_mobile=true" 
 
     bannerImg: "sample.webp"
     imgPosition: "imgLeft" # imgLeft | imgRight
@@ -116,7 +117,8 @@ sections:
     bgColor: ""
     bgOpacity: "" # 0~1
     title: 
-      - "Food At Chef Sha 火焱阁"
+      - "Food at Chef Sha"
+      - "火焱阁"
     titleColor: "#000000"
     description: 
       - ""
@@ -138,8 +140,8 @@ sections:
     titleColor: "#000000"
     description: 
       - "Chef Sha 火焱阁 in San Mateo offers meals of excellent quality and invite you to try our delicious food."
-      - "Since Chef Sha is opened in San Mateo in September 2019, it began serving Asian & Chinese food, specialized in Szechuan and mongolian hot pot, dry pot and BBQ. It will be a wonderful time to share with your friend and family when you come into a typical traditional Chinese style restaurant to enjoy a hot pot. Or order some  special dishes  by yourself. Some popular items include Stir Fried Fish Fillet, spicy boiled fish fillet, Boiled Spring Lamb Slice with Peppercorn, Mapo Tofu and some other ones, maybe come to Chef Sha and try by yourself." 
-      - "The key of success at Chef Sha is simple: providing quality consistent food that taste great every single time. Chef Sha prides ourselves on serving our customers delicious genuine dishes like: Hot Pot, Dry Pot, Seafood, Szechuan & Regional special dishes, and other Chinese & Asian Food."
+      - "Since Chef Sha 火焱阁 is opened in San Mateo in September 2019, it began serving Asian & Chinese food, specialized in Szechuan and mongolian hot pot, dry pot and BBQ. It will be a wonderful time to share with your friend and family when you come into a typical traditional Chinese style restaurant to enjoy a hot pot. Or order some  special dishes  by yourself. Some popular items include Stir Fried Fish Fillet, spicy boiled fish fillet, Boiled Spring Lamb Slice with Peppercorn, Mapo Tofu and some other ones, maybe come to Chef Sha 火焱阁 and try by yourself." 
+      - "The key of success at Chef Sha 火焱阁 is simple: providing quality consistent food that taste great every single time. Chef Sha 火焱阁 prides ourselves on serving our customers delicious genuine dishes like: Hot Pot, Dry Pot, Seafood, Szechuan & Regional special dishes, and other Chinese & Asian Food."
 
 
 
@@ -243,11 +245,11 @@ sections:
     noMarginTop: true
     id: "contact-us"
     mode: "fullWidth" # full-width | ...
-    url: "https://maps.app.goo.gl/qsEBUa1xkqHpWJjt6"
-    iframeUrl: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3162.5574902108265!2d-122.3258600241263!3d37.56548817203875!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808f9f1012849009%3A0x653e48e8ffbaa252!2sChef%20Sha!5e0!3m2!1szh-CN!2sjp!4v1723105762464!5m2!1szh-CN!2sjp"
+    url: "https://maps.app.goo.gl/LvZPjkXzkHA8VLnL6"
+    iframeUrl: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3162.55749021082!2d-122.32586002375947!3d37.56548817203889!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808f9f1012849009%3A0x653e48e8ffbaa252!2z5aSp5bqc6YWS5a62IFRpYW5mdSBSZXN0YXVyYW50!5e0!3m2!1sen!2smy!4v1727250180002!5m2!1sen!2smy"
     addTelBtn: true
     tel: ""
-    telInsteadText: ""
+    telInsteadText: "Tel: 510-566-7175"
     tel2: "" # if there are two phone numbers
     tel2InsteadText: ""
     getDirectionBtnInsteadText: ""
@@ -279,12 +281,13 @@ footer:
 
   openingHoursInsteadText: ""
   openingHours: 
-    - "Monday ~ Sunday:"
+    - "Monday ~ Sunday"
     - "11:00 AM - 2:30 PM, 5:00 PM - 10:00 PM"
   
   
   isLogo: true
-  logoSize: 60
+  logoSize: 65
+  logoSizeOnMobile: 50
  
   # menu:
   #   - { text: "Home", link: "/" }
@@ -312,12 +315,18 @@ footer:
   acceptedPaymentMethodsInsteadText: ""
   paymentMethod: "visa,amex,cash,mastercard" # alipay,applePay,cash,discover,googlePay,jcb,maestro,mastercard,stripe,unionPay,visa,weChatPay,payPal
 
+  addressInsteadText: "Address"
+  address: 
+    - address: "231 S Ellsworth Ave, San Mateo, CA 94401"
+      url: "https://maps.app.goo.gl/LvZPjkXzkHA8VLnL6"
+
   # at a minimum, please make sure to include the meta description.
   seo:
-    metaDescription: "Experience the best Chinese hot pot in San Mateo! Savor fresh ingredients and rich flavors in a cozy atmosphere perfect for family and friends.Online order now！" 
+    metatitle: "Chef Sha 火焱阁｜Chinese｜Hot Pot｜San Mateo"
+    metaDescription: "Experience the best Chinese hot pot in San Mateo! Savor fresh ingredients and rich flavors in a cozy atmosphere perfect for family and friends. Online order now！" 
     keywords: ""
     img: ""
-    thisPageUrl: "https://www.chefsha-order.com/"
+    canonicalHref: "https://chefsha-order.com/"
     locale: "en_US" # zh_TW | zh_CN
 ---
 <!-- hello world -->

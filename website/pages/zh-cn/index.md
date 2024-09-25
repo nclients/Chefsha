@@ -1,10 +1,10 @@
 ---
 layout: "ssg-theme-astro/layouts/main.astro"  # This line of code should remain unchanged.
-tag: "GTM-"
-title: "Chef Sha 火焱阁"
+tag: ""
+title: "Chef Sha 火焱阁 - Best Food Today"
 favicon: "favicon.ico"
-logo: "logo.webp"
-primaryColor: "#E7383D" # logo color
+logo: "logo.png"
+primaryColor: "#AF0702" # logo color
 secondaryColor: "#f3eee5"
 primaryColorScheme: "dark" # dark | light
 secondaryColorScheme: "light"
@@ -27,11 +27,12 @@ tel: "510-566-7175"
 
 # header
 header:
-  logoSize: 45
+  logoSize: 60
+  logoSizeOnMobile: 45
   textAfterLogo: 
     text: "Chef Sha 火焱阁"
-    size: 20
-    color: ""
+    size: 16
+    color: "#AF0702"
   bgColor: "#ffffff"
   bgOpacity: "1" # 0~1
   menuTextColor: "#000000"
@@ -50,14 +51,14 @@ header:
 
   otherBtn1InsteadText: "Online Order"
   otherBtn1Href: "https://www.bestfoodtodayus.com/ordering/restaurant/menu?restaurant_uid=baf65e17-dae4-457b-9cc0-a3a33b502826"
-  otherBtn2InsteadText: "Table Reservation "
-  otherBtn2Href: "https://www.bestfoodtodayus.com/ordering/restaurant/menu/reservation?restaurant_uid=baf65e17-dae4-457b-9cc0-a3a33b502826&reservation=true&client_is_mobile=true"
+  otherBtn2InsteadText: ""
+  otherBtn2Href: ""
 
 sections:
 # hero
   - type: "hero" 
     id: ""
-    height: "70" # Conditionally use only when sectionType is imgBg
+    height: "100" # Conditionally use only when sectionType is imgBg
     sectionType: "imgBg" # video | imgWithText | imgBg
     bgVideoType: "gjw" # youtube | vimeo | gjw
     bgVideoId: "1gov6sj92av4Zb9OI9K1kKJat1rv1c"
@@ -65,7 +66,8 @@ sections:
     bgColor: "#000000"
     bgOpacity: "0.2" # 0~1
     title: 
-      - "Chef Sha 火焱阁"
+      - "Chef Sha"
+      - "火焱阁"
     titleColor: "#ffffff"
     description: 
       - "位于圣马刁的美味中国菜、火锅、干锅、川菜和特色菜"
@@ -82,10 +84,10 @@ sections:
     addTableReservationBtn: false
     tableReservationBtnInsteadText: ""
 
-    btn1Text: ""
-    btn1Href: "" 
-    btn2Text: "" 
-    btn2Href: "" 
+    btn1Text: "See Menu & OrderS"
+    btn1Href: "https://www.bestfoodtodayus.com/ordering/restaurant/menu?restaurant_uid=baf65e17-dae4-457b-9cc0-a3a33b502826" 
+    btn2Text: "Table Reservation" 
+    btn2Href: "https://www.bestfoodtodayus.com/ordering/restaurant/menu/reservation?restaurant_uid=baf65e17-dae4-457b-9cc0-a3a33b502826&reservation=true&client_is_mobile=true" 
 
     bannerImg: "sample.webp"
     imgPosition: "imgLeft" # imgLeft | imgRight
@@ -116,7 +118,8 @@ sections:
     bgColor: ""
     bgOpacity: "" # 0~1
     title: 
-      - "Chef Sha 火焱阁的美食"
+      - "Chef Sha"
+      - "火焱阁的美食"
     titleColor: "#000000"
     description: 
       - ""
@@ -137,9 +140,9 @@ sections:
       - "关于我们"
     titleColor: "#000000"
     description: 
-      - "位于圣马特奥的 Chef Sha 火焱阁为您提供质量上乘的餐点，诚邀您品尝我们的美味佳肴。"
-      - "Chef Sha 于 2019年9月在圣马特奥开业，开始供应亚洲和中国美食，主营四川和蒙古火锅、干锅和烧烤。欢迎来到这家典型的传统中式餐厅品尝火锅，将是与朋友和家人分享的美好时光。您也可以自己点一些特色菜。一些受欢迎的菜品包括炒鱼片、麻辣水煮鱼片、花椒水煮羊肉片、麻婆豆腐和其他一些菜品，也许您可以来本店亲自品尝一下。" 
-      - "Chef Sha 的成功之道很简单：提供始终如一的优质食品，每一次都美味可口。Chef Sha引以为豪的是为顾客提供美味可口的正宗菜肴，如 火锅、干锅、海鲜、四川和地方特色菜以及其他中餐和亚洲美食。"
+      - "位于圣马刁的 Chef Sha 火焱阁为您提供质量上乘的餐点，诚邀您品尝我们的美味佳肴。"
+      - "Chef Sha 火焱阁于2019年9月在圣马特奥开业，开始供应亚洲和中国美食，主营四川和蒙古火锅、干锅和烧烤。欢迎来到这家典型的传统中式餐厅品尝火锅，将是与朋友和家人分享的美好时光。您也可以自己点一些特色菜。一些受欢迎的菜品包括炒鱼片、麻辣水煮鱼片、花椒水煮羊肉片、麻婆豆腐和其他一些菜品，也许您可以来本店亲自品尝一下。" 
+      - "Chef Sha 火焱阁的成功之道很简单：提供始终如一的优质食品，每一次都美味可口。Chef Sha 火焱阁引以为豪的是为顾客提供美味可口的正宗菜肴，如 火锅、干锅、海鲜、四川和地方特色菜以及其他中餐和亚洲美食。"
 
 
 
@@ -250,7 +253,7 @@ sections:
     telInsteadText: "电话：510-566-7175"
     tel2: "" # if there are two phone numbers
     tel2InsteadText: ""
-    getDirectionBtnInsteadText: "导航"
+    getDirectionBtnInsteadText: "前往餐厅"
  
 #  # The modal will only appear once within 30 minutes."
 #   - type: "modal" 
@@ -279,12 +282,13 @@ footer:
 
   openingHoursInsteadText: "营业时间"
   openingHours: 
-    - "周一 ~ 周日:"
+    - "周一 ～ 周日"
     - "11:00 AM - 2:30 PM, 5:00 PM - 10:00 PM"
   
   
   isLogo: true
-  logoSize: 60
+  logoSize: 65
+  logoSizeOnMobile: 50
  
   # menu:
   #   - { text: "Home", link: "/" }
@@ -312,12 +316,18 @@ footer:
   acceptedPaymentMethodsInsteadText: "支付方式"
   paymentMethod: "visa,amex,cash,mastercard" # alipay,applePay,cash,discover,googlePay,jcb,maestro,mastercard,stripe,unionPay,visa,weChatPay,payPal
 
+  addressInsteadText: "地 址"
+  address: 
+    - address: "231 S Ellsworth Ave, San Mateo, CA 94401"
+      url: "https://maps.app.goo.gl/qsEBUa1xkqHpWJjt6"
+
   # at a minimum, please make sure to include the meta description.
   seo:
-    metaDescription: "Experience the best Chinese hot pot in San Mateo! Savor fresh ingredients and rich flavors in a cozy atmosphere perfect for family and friends.Online order now！" 
+    metaTitle: "Chef Sha 火焱阁｜中餐厅｜中式火锅｜圣马刁"
+    metaDescription: "在圣马刁的Chef Sha 火焱阁体验最好的中式火锅！在温馨的氛围中，与家人和朋友一起品尝新鲜的食材和丰富的味道。立即在线订餐！" 
     keywords: ""
     img: ""
-    thisPageUrl: "https://www.chefsha-order.com/"
-    locale: "en_US" # zh_TW | zh_CN
+    canonicalHref: "https://chefsha-order.com/zh-cn"
+    locale: "zh_CN" # zh_TW | zh_CN
 ---
 <!-- hello world -->
