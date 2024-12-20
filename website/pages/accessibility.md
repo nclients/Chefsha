@@ -104,6 +104,9 @@ footer:
   address:
     - address: "231 S Ellsworth Ave, San Mateo, CA 94401"
       url: "https://maps.app.goo.gl/LvZPjkXzkHA8VLnL6"
+
+seo:
+  locale: "en_US" # zh_TW | zh_CN
 ---
 
 <!-- hello world -->

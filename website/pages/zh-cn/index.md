@@ -225,9 +225,9 @@ sections:
   - type: "textBlock"
     noMarginTop: false
     id: ""
-    bgImg: "/gallery/Chef Sha 火焱阁07.jpeg"
+    bgImg: ""
     bgColor: "#000"
-    bgOpacity: "0.6" # 0~1
+    bgOpacity: "1" # 0~1
     title:
       - "新功能! 在线订餐"
     titleColor: "#ffffff"
@@ -314,13 +314,13 @@ footer:
       url: "https://maps.app.goo.gl/qsEBUa1xkqHpWJjt6"
 
   # at a minimum, please make sure to include the meta description.
-  seo:
-    metaTitle: "Chef Sha 火焱阁｜中餐厅｜中式火锅｜圣马刁"
-    metaDescription: "在圣马刁的Chef Sha 火焱阁体验最好的中式火锅！在温馨的氛围中，与家人和朋友一起品尝新鲜的食材和丰富的味道。立即在线订餐！"
-    keywords: ""
-    img: ""
-    canonicalHref: "https://chefsha-order.com/zh-cn"
-    locale: "zh_CN" # zh_TW | zh_CN
+seo:
+  metaTitle: "Chef Sha 火焱阁｜中餐厅｜中式火锅｜圣马刁"
+  metaDescription: "在圣马刁的Chef Sha 火焱阁体验最好的中式火锅！在温馨的氛围中，与家人和朋友一起品尝新鲜的食材和丰富的味道。立即在线订餐！"
+  keywords: ""
+  img: ""
+  canonicalHref: "https://chefsha-order.com/zh-cn"
+  locale: "zh_CN" # zh_TW | zh_CN
 ---
 
 <!-- hello world -->
