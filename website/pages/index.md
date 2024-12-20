@@ -64,7 +64,7 @@ sections:
     bgVideoId: "1gov6sj92av4Zb9OI9K1kKJat1rv1c"
     bgImg: "gallery/Chef Sha 火焱阁10.jpeg"
     bgColor: "#000000"
-    bgOpacity: "0.2" # 0~1
+    bgOpacity: "0.5" # 0~1
     title:
       - "Chef Sha 火焱阁"
     titleColor: "#ffffff"
