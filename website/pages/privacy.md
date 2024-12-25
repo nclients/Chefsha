@@ -8,12 +8,8 @@ primaryColor: "#AF0702" # logo color
 secondaryColor: "#f3eee5"
 primaryColorScheme: "dark" # dark | light
 secondaryColorScheme: "light"
-cuid: ""
-ruid: ""
-orderOnlineLink: "https://www.bestfoodtodayus.com/ordering/restaurant/menu?restaurant_uid=baf65e17-dae4-457b-9cc0-a3a33b502826"
-tableReservationLink: "https://www.bestfoodtodayus.com/ordering/restaurant/menu/reservation?restaurant_uid=baf65e17-dae4-457b-9cc0-a3a33b502826&reservation=true&client_is_mobile=true"
 tel: "510-566-7175"
-
+address: "231 S Ellsworth Ave, San Mateo, CA 94401, United States"
 # banner:
 #   text:
 #     # - boldText: "🥳 Special Offer"
