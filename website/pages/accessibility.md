@@ -10,6 +10,7 @@ primaryColorScheme: "dark" # dark | light
 secondaryColorScheme: "light"
 tel: "510-566-7175"
 address: "231 S Ellsworth Ave, San Mateo, CA 94401, United States"
+creationDate: 1 Jan 2025
 # banner:
 #   text:
 #     # - boldText: "🥳 Special Offer"
