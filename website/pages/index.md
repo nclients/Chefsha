@@ -135,7 +135,7 @@ sections:
     bgColor: ""
     bgOpacity: "" # 0~1
     title:
-      - "About Us"
+      - "About Chef Sha San Mateo"
     titleColor: "#000000"
     description:
       - "Chef Sha 火焱阁 in San Mateo offers meals of excellent quality and invite you to try our delicious food."
@@ -314,7 +314,7 @@ footer:
 
   # at a minimum, please make sure to include the meta description.
 seo:
-  metaTitle: "Chef Sha 火焱阁｜Chinese｜Hot Pot｜San Mateo"
+  metaTitle: "Chef Sha｜Hot Pot in San Mateo"
   metaDescription: "Experience the best Chinese hot pot in San Mateo! Savor fresh ingredients and rich flavors in a cozy atmosphere perfect for family and friends. Online order now！"
   keywords: ""
   img: ""
