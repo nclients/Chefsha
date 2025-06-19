@@ -314,7 +314,7 @@ footer:
 
   # at a minimum, please make sure to include the meta description.
 seo:
-  metaTitle: "Chef Sha｜Hot Pot in San Mateo"
+  metaTitle: "Chef Sha｜Hot Pot in San Mateo | Szechuan Foods"
   metaDescription: "Experience the best Chinese hot pot in San Mateo! Savor fresh ingredients and rich flavors in a cozy atmosphere perfect for family and friends. Online order now！"
   keywords: ""
   img: ""
