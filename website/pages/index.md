@@ -124,6 +124,21 @@ sections:
       - ""
     descriptionColor: "#333333"
     folderPath: "gallery"
+    altOverrides:
+      "001_Sliced Beef in Golden Broth with Green Chilies": "Sliced Meat in Golden Broth with Green Chilies"
+      "002_Braised Meat with Potatoes and Cilantro in Spicy Sauce": "Spicy Braised Meat with Potatoes and Cilantro"
+      "003_Cold Dish with Cilantro and Chilies": "Cold Salad with Cilantro and Chilies"
+      "004_Grilled Meat Skewers on Lettuce": "BBQ Skewers on Lettuce"
+      "005_Roasted Lamb Leg Sliced on Black Slate": "Roasted Lamb Leg Sliced"
+      "006_Golden Broth Beef Slices with Scallions and Green Peppercorns": "Boiled Spring Lamb Slices with Peppercorn"
+      "007_Rolled Slices of Raw Meat for Hot Pot": "Rolled Meat Slices for Hot Pot"
+      "008_Hot Pot with Red Broth and Ladle of Braised Meat": "Hot Pot with Spicy Red Broth"
+      "009_Roasted Lamb Leg on the Bone Beside Spices": "Roasted Lamb Leg on the Bone"
+      "010_Dipping Sliced Meat into Divided Hot Pot": "Dipping Sliced Meat into Two-Flavor Hot Pot"
+      "011_Golden Broth Beef Slices with Green Peppercorns and Chilies": "Boiled Spring Lamb Slices with Green Peppercorn and Chilies"
+      "013_Dry Pot Meat with Peppers and Sesame Seeds": "Dry Pot with Peppers and Sesame Seeds"
+      "014_Spicy Stir-Fry with Scallions and Cilantro in Steel Pan": "Spicy Stir-Fried Shrimp with Scallions and Cilantro"
+      "016_Braised Meat with Taro and Green Peppers in Clay Pot": "Clay Pot Braised Meat with Taro and Green Peppers"
     showImgName: false # true | false
     imgNameColor: "#000000"
     menuItemImgRounded: "3xl" # sm | md | lg | xl | 2xl | 3xl | full
